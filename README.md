@@ -1,2 +1,2 @@
 # FlashCardsApp
-C# Windows Application(.NET 3,5)
+C# Windows Application(.NET Framework)
