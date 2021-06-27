@@ -1,0 +1,219 @@
+<?xml version="1.0"?>
+<ArrayOfTheHomeCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TheHomeCollection>
+    <FirstLanguage>air conditioning</FirstLanguage>
+    <SecondLanguage>klimatyzacja</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>alarm system</FirstLanguage>
+    <SecondLanguage>system alarmowy</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>basement</FirstLanguage>
+    <SecondLanguage>piwnica</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>bathroom tiles</FirstLanguage>
+    <SecondLanguage>płytki lazienkowe</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>bedroom</FirstLanguage>
+    <SecondLanguage>sypialnia</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>carpet</FirstLanguage>
+    <SecondLanguage>wykładzina podłogowa,dywan</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>ceiling</FirstLanguage>
+    <SecondLanguage>sufit</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>corridor</FirstLanguage>
+    <SecondLanguage>korytarz(w hotelu,biurze,szpitalu)</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>curtains</FirstLanguage>
+    <SecondLanguage>zasłony,kurtyna,firanka</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>dining room</FirstLanguage>
+    <SecondLanguage>jadalnia</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>door handle</FirstLanguage>
+    <SecondLanguage>klamka do drzwi</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>door lock</FirstLanguage>
+    <SecondLanguage>zamek do drzwi</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>door</FirstLanguage>
+    <SecondLanguage>drzwi</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>double room</FirstLanguage>
+    <SecondLanguage>pokój dwuosobowy</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>drapery</FirstLanguage>
+    <SecondLanguage>firanka;draperia</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>driveway</FirstLanguage>
+    <SecondLanguage>podjazd</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>electricity devices</FirstLanguage>
+    <SecondLanguage>urządzenia elektryczne</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>electricity</FirstLanguage>
+    <SecondLanguage>prąd elektryczny,elektryczność</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>ethernet socket</FirstLanguage>
+    <SecondLanguage>gniazdko elektryczne</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>fence</FirstLanguage>
+    <SecondLanguage>płot,ogrodzenie</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>floor</FirstLanguage>
+    <SecondLanguage>podłoga</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>furniture</FirstLanguage>
+    <SecondLanguage>meble</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>garage</FirstLanguage>
+    <SecondLanguage>garaż</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>garden</FirstLanguage>
+    <SecondLanguage>ogród</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>gas</FirstLanguage>
+    <SecondLanguage>gaz,benzyna</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>guest room</FirstLanguage>
+    <SecondLanguage>pokój gościnny</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>hallway</FirstLanguage>
+    <SecondLanguage>korytarz(w domu)</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>heater</FirstLanguage>
+    <SecondLanguage>grzejnik</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>heating</FirstLanguage>
+    <SecondLanguage>ogrzewanie</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>home decor</FirstLanguage>
+    <SecondLanguage>wystrój wnętrz/domu</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>home</FirstLanguage>
+    <SecondLanguage>dom</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>ilumination</FirstLanguage>
+    <SecondLanguage>oświetlenie</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>image</FirstLanguage>
+    <SecondLanguage>obraz,wizerunek</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>kitchen tiles</FirstLanguage>
+    <SecondLanguage>płytki kuchenne</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>kitchen</FirstLanguage>
+    <SecondLanguage>kuchnia</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>lawn</FirstLanguage>
+    <SecondLanguage>trawnik</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>light switch</FirstLanguage>
+    <SecondLanguage>przełącznik światła</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>lighting</FirstLanguage>
+    <SecondLanguage>oświetlenie</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>living room</FirstLanguage>
+    <SecondLanguage>salon</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>modern</FirstLanguage>
+    <SecondLanguage>nowoczesny,współczesny</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>paneling</FirstLanguage>
+    <SecondLanguage>boazeria</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>parquet flooring</FirstLanguage>
+    <SecondLanguage>parkiet</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>plug</FirstLanguage>
+    <SecondLanguage>wtyczka</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>radiator</FirstLanguage>
+    <SecondLanguage>kaloryfer</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>roof</FirstLanguage>
+    <SecondLanguage>dach</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>room</FirstLanguage>
+    <SecondLanguage>pokój</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>rug</FirstLanguage>
+    <SecondLanguage>dywan</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>single room</FirstLanguage>
+    <SecondLanguage>pokój jednosobowy</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>socket</FirstLanguage>
+    <SecondLanguage> gniazdko elektryczne,gniazdko internetowe</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>toilet</FirstLanguage>
+    <SecondLanguage>toaleta</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>wall paint</FirstLanguage>
+    <SecondLanguage>farba do ścian</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>wall picture</FirstLanguage>
+    <SecondLanguage>obraz ścienny</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>wall</FirstLanguage>
+    <SecondLanguage>ściana,mur</SecondLanguage>
+  </TheHomeCollection>
+  <TheHomeCollection>
+    <FirstLanguage>window</FirstLanguage>
+    <SecondLanguage>okno,okienko</SecondLanguage>
+  </TheHomeCollection>
+</ArrayOfTheHomeCollection>

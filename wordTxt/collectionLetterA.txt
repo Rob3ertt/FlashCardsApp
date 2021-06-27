@@ -1,0 +1,32 @@
+able,zdolny(do czegoś),mający umiejętność(robienia czegoś)
+about,o kim,o czymś,około,mniej więcej
+above,nad,powyżej,u góry,wysoko
+accept,przyjąć,przyjmować,zaakceptować,akceptować
+account,raport,sprawozdanie,konto,rachunek(w banku)
+across,przez,poprzez,w poprzek
+act,czyn,działanie,działać
+action,akcja,działanie,czyn,czynność
+activity,aktywność,działanie
+add,dodawać
+address,adres
+afraid,przestraszony,wystraszony
+after,po,za
+afternoon,popołudnie
+again,znowu,jeszcze raz
+against,przeciwko,przeciw
+age,wiek,epoka,starzeć się
+ago,temu(np.2 godziny temu)
+agree,zgadzać się,przyznawać rację,uzgadniać(podjąć wspólnie decyzję)
+ahead,z przodu,przed kimś
+air,powietrze
+airplane,samolot
+all,wszystkie,wszyscy
+allow,pozwalać,zezwalać
+almost,prawie,niemal,nieomal,mało co
+alone,sam,sama,samotny,samotna
+along,naprzód,dalej(o czymś poruszającym się do przodu),wzdłuż
+already,już,poprzednio
+also,również,także,ponadto
+although,mimo że,pomimo że
+always,zawsze
+among,pośród,wśród,między

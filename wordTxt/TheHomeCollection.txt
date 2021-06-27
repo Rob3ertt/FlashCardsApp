@@ -1,0 +1,54 @@
+air conditioning,klimatyzacja
+alarm system,system alarmowy
+basement,piwnica
+bathroom tiles,płytki lazienkowe
+bedroom,sypialnia
+carpet,wykładzina podłogowa,dywan
+ceiling,sufit
+corridor,korytarz(w hotelu,biurze,szpitalu)
+curtains,zasłony,kurtyna,firanka
+dining room,jadalnia
+door handle,klamka do drzwi
+door lock,zamek do drzwi
+door,drzwi
+double room,pokój dwuosobowy
+drapery,firanka;draperia
+driveway,podjazd
+electricity devices,urządzenia elektryczne
+electricity,prąd elektryczny,elektryczność
+ethernet socket,gniazdko elektryczne
+fence,płot,ogrodzenie
+floor,podłoga
+furniture,meble
+garage,garaż
+garden,ogród
+gas,gaz,benzyna
+guest room,pokój gościnny
+hallway,korytarz(w domu)
+heater,grzejnik
+heating,ogrzewanie
+home decor,wystrój wnętrz/domu
+home,dom
+ilumination,oświetlenie
+image,obraz,wizerunek
+kitchen tiles,płytki kuchenne
+kitchen,kuchnia
+lawn,trawnik
+light switch,przełącznik światła
+lighting,oświetlenie
+living room,salon
+modern,nowoczesny,współczesny
+paneling,boazeria
+parquet flooring,parkiet
+plug,wtyczka
+radiator,kaloryfer
+roof,dach
+room,pokój
+rug,dywan
+single room,pokój jednosobowy
+socket, gniazdko elektryczne,gniazdko internetowe
+toilet,toaleta
+wall paint,farba do ścian
+wall picture,obraz ścienny
+wall,ściana,mur
+window,okno,okienko
